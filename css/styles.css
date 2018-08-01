@@ -10,6 +10,7 @@
 .image {
   width: 500px;
   height: 300px;
+  padding: 10px;
 }
 
 .sidebar {
@@ -18,6 +19,8 @@
   float: right;
   background-color: gray;
   padding-left: 20px;
+  border: 2px solid black;
+  margin: 20px;
 }
 
 h1 {
