@@ -1,0 +1,25 @@
+.mainImage {
+  width: 300px;
+  float: left;
+}
+
+.images {
+  text-align: center;
+}
+
+.image {
+  width: 500px;
+  height: 300px;
+}
+
+.sidebar {
+  width: 30%;
+  height: 180px;
+  float: right;
+  background-color: gray;
+  padding-left: 20px;
+}
+
+h1 {
+  text-align: center;
+}
